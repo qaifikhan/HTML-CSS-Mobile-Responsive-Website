@@ -26,6 +26,7 @@ nav {
     padding: 0 28px;
     box-sizing: border-box;
     position: fixed;
+    z-index: 10;
 }
 
 #logo {
